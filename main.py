@@ -38,4 +38,4 @@ async def on_ready():
     print(f'Logged in as {bot.user}!')
 
 # تسجيل البوت باستخدام التوكن الخاص بك
-bot.run('YOUR_TOKEN')
+my_secret = os.environ['token']
