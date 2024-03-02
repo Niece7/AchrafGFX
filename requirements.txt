@@ -1,5 +1,4 @@
 discord
-nltk
-flask
 discord-py-slash-command
 discord-py-interactions
+discord_slash
