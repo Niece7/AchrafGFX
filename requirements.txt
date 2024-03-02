@@ -2,3 +2,4 @@ discord
 discord-py-slash-command
 discord-py-interactions
 discord_slash
+python3
