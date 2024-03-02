@@ -1,13 +1,13 @@
 {
-  "name": "اسم المشروع",
+  "name": "AchrafGFX",
   "version": "1.0.0",
-  "description": "وصف المشروع",
+  "description": "AchrafGFX",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "المؤلف",
-  "license": "رخصة المشروع",
+  "author": "Axhraf",
+  "license": "All Copyright to Axhraf 2035",
   "dependencies": {
     "discord.js": "^13.3.1"
   }
