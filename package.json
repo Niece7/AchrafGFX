@@ -1,4 +1,13 @@
 {
+  "name": "اسم المشروع",
+  "version": "1.0.0",
+  "description": "وصف المشروع",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "المؤلف",
+  "license": "رخصة المشروع",
   "dependencies": {
     "discord.js": "^13.3.1"
   }
